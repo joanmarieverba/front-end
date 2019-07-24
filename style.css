@@ -6,6 +6,12 @@ body {
   text-align: center;
 }
 
+h3 {
+  font-family:  'Noto Sans', sans-serif;
+  font-weight: bold;
+  color: #1ABC9C;
+}
+
 .mainHeaderImage {
     background-image: url("./images/front-end.jpg");
     background-size: cover;
