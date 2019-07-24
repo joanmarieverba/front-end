@@ -12,6 +12,13 @@ h3 {
   color: #1ABC9C;
 }
 
+h4 {
+  font-size: 16px;
+  font-family:  'Noto Sans', sans-serif;
+  font-weight: bold;
+  color: #1ABC9C;
+}
+
 .mainHeaderImage {
     background-image: url("./images/front-end.jpg");
     background-size: cover;
