@@ -13,7 +13,7 @@ h3 {
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 18px;
   font-family:  'Noto Sans', sans-serif;
   font-weight: bold;
   color: #1ABC9C;
@@ -31,4 +31,8 @@ h4 {
 
 ul {
   list-style-type: none;
+}
+
+.vspace {
+  margin-top: 1.8vh;
 }
