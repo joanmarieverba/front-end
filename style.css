@@ -2,6 +2,9 @@ body {
     background-color: azure;
 }
 
+.center-text {
+  text-align: center;
+}
 
 .mainHeaderImage {
     background-image: url("./images/front-end.jpg");
