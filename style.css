@@ -36,3 +36,7 @@ ul {
 .vspace {
   margin-top: 1.8vh;
 }
+
+.wrapper {
+  border: 20px solid gainsboro; 
+}
