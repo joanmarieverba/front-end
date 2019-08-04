@@ -24,7 +24,7 @@ h4 {
 }
 
 .list-inline {
-  display: block;
+  display: inline-block;
 }
 
 .mainHeaderImage {
