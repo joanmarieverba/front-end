@@ -23,6 +23,10 @@ h4 {
   color: #1ABC9C;
 }
 
+.left-text {
+  text-align: left;
+}
+
 .list-inline {
   display: inline-block;
 }
