@@ -40,6 +40,11 @@ h4 {
     background-size: cover;
 }
 
+.pad-text {
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
 .round {
     height: 5vw;
     width: 5vw;
